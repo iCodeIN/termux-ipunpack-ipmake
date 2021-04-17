@@ -6,12 +6,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/rendiix.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rendiix?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/termux-ipunpack-ipmake.svg)](https://github.com/rendiix/termux-ipunpack-ipmake/graphs/contributors/)
 
-# termux-ipunpack-ipmake
-termux-ipunpack-ipmake
+# Termux android-partition-tools
+prebuilt binary ipunpack ipmake ipadd ipflash for termux
 
 #### Install:
 
-termux-ipunpack-ipmake available under android-partition-tools apt package.
+Termux android-partition-tools available under android-partition-tools apt package.
 
 If you have subscribed to my repository:
 
@@ -27,6 +27,12 @@ $ cd termux-ipunpack-ipmake
 $ bash install.sh
 ```
 Or just copy the binaries from the prebuilt-binary folder to your path or projects
+
+#### Uninstall:
+
+```console
+$ apt remove android-partition-tools
+```
 
 #### Join Discord or follow me on Twitter:
 
